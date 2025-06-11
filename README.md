@@ -1,5 +1,6 @@
 ## 🆘 RescueMe – Emergency Location & Route Sharing App
-**RescueMe is a modern Kotlin Android app built with Jetpack Compose that helps users share their real-time location and planned routes with trusted contacts via SMS during emergency situations. Designed with user safety in mind, RescueMe ensures that loved ones are always informed about the user’s last known position and intended destination.** 
+
+***RescueMe is a modern Kotlin Android app built with Jetpack Compose that helps users share their real-time location and planned routes with trusted contacts via SMS during emergency situations. Designed with user safety in mind, RescueMe ensures that loved ones are always informed about the user’s last known position and intended destination.*** 
 
 
 ### 📱 Key Features
