@@ -78,7 +78,7 @@ RescueMe is a modern Kotlin Android app built with Jetpack Compose that helps us
 
 - 🔐 Granular permission handling
 
-🧪 Robust error logging & edge case handling
+- 🧪 Robust error logging & edge case handling
 
 ### 📱 Screenshots  
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
